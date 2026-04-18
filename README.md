@@ -1,4 +1,4 @@
-# Music Spot App
+# Music Spot 
 
 ## About
 Music streaming web application with playlist 
